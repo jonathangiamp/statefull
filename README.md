@@ -87,9 +87,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/jonathangiamp/64db04e6b25c
 
 ## Authors
 
-* **Jonathan Giamporcaro** - *Initial work* - [Github](https://github.com/PurpleBooth)
+* **Jonathan Giamporcaro** - *Initial work* - [Github](https://github.com/jonathangiamp)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jonathangiamp/statefull/contributors) who participated in this project.
 
 ## License
 
